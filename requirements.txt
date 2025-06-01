@@ -1,0 +1,11 @@
+numpy==2.2.5
+qdrant-client==1.14.2
+google-cloud-aiplatform
+psycopg2-binary
+sqlalchemy
+pgvector
+sentence_transformers
+qdrant-client 
+numpy
+pandas
+scikit-learn
